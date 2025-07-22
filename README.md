@@ -1,11 +1,7 @@
 # Buckshot-Roulette-in-Python
 Kennst du 'Buckshot Roulette'? Ich habe es als Schulprojekt in Python neu Programmiert. Das war in der 8ten Klasse, es gab eine 2 dafür. Womöglich ist ja jemand dran interessiert es zu spiel oder sich zu inspirieren.
 
-
-# **Buckshot Roulet!**
-Erklär / unterhaltungs Video:
-
-> [BUCKSHOT ROULETTE hatte ein Update! - YouTube - Jodarum](https://www.youtube.com/watch?v=w85l3Ita0Ik)
+---
 
 # **Was soll Buckshot-Rolette sein?**
 Hier ist eine Erklärung des Spiels "Backshot Roulette":
